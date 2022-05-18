@@ -3,7 +3,8 @@ Me llego un sms de Phishing y me dio por follarle la vida.
 
 Como usar?
 Abrir herramientas para desarollador > Red 
-c off
+
+Desactivar registro de red
 poner los datos (FALSOS NO SEAN TONTOS XD)
 
 Grabar registro de red on
